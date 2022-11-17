@@ -6,5 +6,7 @@ def main(n):
     Returns:
         result : float
     """
-    return 
+    n = 3*(n+1)**2
+    return n
 
+print(main(3.5))
