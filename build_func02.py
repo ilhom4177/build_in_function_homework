@@ -5,6 +5,7 @@ def main(n):
     Returns:
         result: float
     """
-    return (round(3*(7/5)-(9/4)))
-print(main(7.2))   
+    x=3*(7/5-9/4)
+    return x
+print(main(7))   
     
