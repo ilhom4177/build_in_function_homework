@@ -6,5 +6,5 @@ def main(n):
         result: float
     """
     return 3*((7/5)-(9/4))
-print(main(5))    
+print(main(3))   
     
