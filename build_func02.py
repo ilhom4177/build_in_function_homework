@@ -5,7 +5,7 @@ def main():
     Returns:
         result: float
     """
-    c=  (round(3*(7/5-9/4)))
+    c = 3*(7/5-9/4)
     return c
 print(main())   
     
